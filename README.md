@@ -58,9 +58,13 @@ func Verify(from, sigHex string, msg []byte, ignoreVersion bool) bool {
 }
 ```
 
+### How to run sample
+- go mod tidy
+- go run main.go
+
 ### Demo
 - [x] golang
-- [ ] python
+- [x] python (https://github.com/tokoinofficial/python-sign-verify-message)
 
 ### Created & Maintained By
 
