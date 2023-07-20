@@ -1,4 +1,4 @@
-module sign-verify-tnx/m/v2
+module github.com/tokoinofficial/go-sign-verify-message
 
 go 1.19
 
