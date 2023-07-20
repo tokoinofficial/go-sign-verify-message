@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"sign-verify-tnx/m/v2/helpers"
+
+	"github.com/tokoinofficial/go-sign-verify-message/helpers"
 
 	solsha3 "github.com/miguelmota/go-solidity-sha3"
 )
